@@ -1,0 +1,14 @@
+Running CMake:
+cmake .
+make
+run the executable
+
+Pulling from and pushing to GitHub:
+in the local folder: git init and git clone url of repo
+add files, make some changes
+git add .
+git commit -m "Comment"
+git push
+enter username and token password
+
+
